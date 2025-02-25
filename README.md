@@ -1,4 +1,4 @@
 # Stenography
-This is my first Git Repository.
+This is my first github repository.
 <br>
 Author - Jay Kumar Prasad

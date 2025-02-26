@@ -8,12 +8,12 @@ Author - Jay Kumar Prasad
 A project that uses steganography to hide data within images.
 
 # Table of Contents
-- #introduction
-- #how-it-works
-- #features
-- #requirements
-- #installation
-- #usage
+- introduction
+- how-it-works
+- features
+- requirements
+- installation
+- usage
 
 # Introduction
 Steganography is a technique that hides data within images, audio, or video. This project uses steganography to hide data within images.
